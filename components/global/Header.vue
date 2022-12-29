@@ -5,19 +5,19 @@
         <a class="btn block" href="https://phcorplgtm.netlify.app">phcorplgtm</a>
       </li>
       <li class="flex-1 ml-2">
-        <a class="btn block" href="https://lgtmcorporation.netlify.app/blog">lgtmcorporation</a>
+        <a class="btn block" href="https://lgtmcorporation.netlify.app/">lgtmcorporation</a>
       </li>
       <li class="flex-1 ml-2">
-        <a class="btn block" href="https://lgtmdeveloperph.netlify.app/projects">lgtmdeveloperph</a>
+        <a class="btn block" href="https://lgtmdeveloperph.netlify.app/">lgtmdeveloperph</a>
       </li>
       <li class="flex-1">
         <a class="btn block" href="https://phcorplgtm.netlify.app">phcorplgtm</a>
       </li>
       <li class="flex-1 ml-2">
-        <a class="btn block" href="https://lgtmcorporation.netlify.app/blog">lgtmcorporation</a>
+        <a class="btn block" href="https://lgtmcorporation.netlify.app/">lgtmcorporation</a>
       </li>
       <li class="flex-1 ml-2">
-        <a class="btn block" href="https://lgtmdeveloperph.netlify.app/projects">lgtmdeveloperph</a>
+        <a class="btn block" href="https://lgtmdeveloperph.netlify.app/">lgtmdeveloperph</a>
       </li>
     </ul>
   </nav>
