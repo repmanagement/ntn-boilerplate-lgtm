@@ -2,22 +2,22 @@
   <nav class="scrim-bg fixed z-40 top-0 inset-x-0 pt-3 px-3" aria-label="Main Menu">
     <ul class="flex">
       <li class="flex-1">
-        <nuxt-link class="btn block" to="https://phcorplgtm.netlify.app">phcorplgtm</nuxt-link>
+        <a class="btn block" to="https://phcorplgtm.netlify.app">phcorplgtm</a>
       </li>
       <li class="flex-1 ml-2">
-        <nuxt-link class="btn block" to="https://lgtmcorporation.netlify.app/blog">lgtmcorporation</nuxt-link>
+        <a class="btn block" to="https://lgtmcorporation.netlify.app/blog">lgtmcorporation</a>
       </li>
       <li class="flex-1 ml-2">
-        <nuxt-link class="btn block" to="https://lgtmdeveloperph.netlify.app/projects">lgtmdeveloperph</nuxt-link>
+        <a class="btn block" to="https://lgtmdeveloperph.netlify.app/projects">lgtmdeveloperph</a>
       </li>
       <li class="flex-1">
-        <nuxt-link class="btn block" to="https://phcorplgtm.netlify.app">phcorplgtm</nuxt-link>
+        <a class="btn block" to="https://phcorplgtm.netlify.app">phcorplgtm</a>
       </li>
       <li class="flex-1 ml-2">
-        <nuxt-link class="btn block" to="https://lgtmcorporation.netlify.app/blog">lgtmcorporation</nuxt-link>
+        <a class="btn block" to="https://lgtmcorporation.netlify.app/blog">lgtmcorporation</a>
       </li>
       <li class="flex-1 ml-2">
-        <nuxt-link class="btn block" to="https://lgtmdeveloperph.netlify.app/projects">lgtmdeveloperph</nuxt-link>
+        <a class="btn block" to="https://lgtmdeveloperph.netlify.app/projects">lgtmdeveloperph</a>
       </li>
     </ul>
   </nav>
@@ -46,7 +46,7 @@ export default {
     background: linear-gradient(to bottom, #111827, cubic-bezier(0.15, 0, 0.45, 1), transparent);
   }
 }
-.nuxt-link-exact-active {
+.a-exact-active {
   @apply text-gray-200 border-gray-400 bg-gray-800 bg-opacity-25 cursor-default;
 }
 
@@ -57,7 +57,7 @@ export default {
       background: linear-gradient(to bottom, #e5e7eb, cubic-bezier(0.15, 0, 0.45, 1), transparent);
     }
   }
-  & .nuxt-link-exact-active {
+  & .a-exact-active {
     @apply text-primary-700 border-gray-600 bg-gray-100;
   }
 }
