@@ -21,12 +21,14 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: SITE_INFO.sitename || process.env.npm_package_name || '',
+    // title: SITE_INFO.sitename || process.env.npm_package_name || '',
+    title: 'LGTM Corpotaion - Developer by TEODORO N CAMACHO IV',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { name: 'robots', content: 'all' },
       { name: 'googlebot', content: 'all' },
+      { name: 'google-site-verification', content: 'iGfIkVD7N7n93-PaWs0bRn6F_iR7Lbf7Xfrkz7mTmEo' },
       {
         hid: 'description',
         name: 'description',
